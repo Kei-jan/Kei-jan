@@ -21,4 +21,4 @@ Here are some ideas to get you started:
   
 
 P.S:
-  1. Stats card is based on ![GitHub Stats Card](https://github.com/anuraghazra/github-readme-stats)
+  1. Stats card is based on [GitHub Stats Card](https://github.com/anuraghazra/github-readme-stats)
