@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 | <a href="https://github.com/Kei-jan/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kei-jan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=stars" alt="Kei-jan's github stats" /></a> | <a href="https://github.com/Kei-jan/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kei-jan&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
   
 
-P.S:
-  1. Stats card is based on [GitHub Stats Card](https://github.com/anuraghazra/github-readme-stats)
+*P.S:*
+  *1. Stats card is based on [GitHub Stats Card](https://github.com/anuraghazra/github-readme-stats)*
