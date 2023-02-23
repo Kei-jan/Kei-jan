@@ -15,20 +15,35 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m currently a graduate student learning medical image analysis with deep learning. 
 
-My clinical tasks are mainly focused on cross-modal cardiac image analysis and segmentation. The technical solutions I used to accomplish these tasks mainly used domain generalization and causal representation.
 
-During undergraduate studies, I mainly learned human motion analysis and pose estimation besides basic courses.
+**I'm** currently a *master*'s student studying *medical image analysis with deep learning*. 
 
-I am also interested in brain-computer interface and multi-modal generation. 
+My clinical tasks are mainly focused on *cross-modal cardiac image analysis and segmentation*. The technical solutions I used to accomplish these tasks mainly used *domain generalization and causal representation*.
+
+Apart from the basic courses, my undergraduate studies focused on *human motion analysis and pose estimation*.
+
+I am also interested in *brain-computer interface* and *cross-modal generation*. 
+
+* Personal website: [kei-jan.github.io](kei-jan.github.io)
 
 ***
+
+***
+Repositories and Gists
+
+:hammer: I’m continuously building my git repositories and gists. 
+
+
+
+
 
 ***
 
 | <a href="https://github.com/Kei-jan/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kei-jan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=stars" alt="Kei-jan's github stats" /></a> | <a href="https://github.com/Kei-jan/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kei-jan&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+
 
   
 ***
