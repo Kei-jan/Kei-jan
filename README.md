@@ -21,10 +21,6 @@ Here are some ideas to get you started:
 
 My clinical tasks are mainly focused on *cross-modal cardiac image analysis and segmentation*. The technical solutions I used to accomplish these tasks mainly used *domain generalization and causal representation*.
 
-Apart from the basic courses, my undergraduate studies focused on *human motion analysis and pose estimation*.
-
-I am also interested in *brain-computer interface* and *cross-modal generation*. 
-
 * Personal website: [kei-jan.github.io](kei-jan.github.io)
 
 ***
