@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 My clinical tasks are mainly focused on *cross-modal cardiac image analysis and segmentation*. The technical solutions I used to accomplish these tasks mainly used *domain generalization and causal representation*.
 
-* Personal website: ![kei-jan.github.io](https://kei-jan.github.io/)
+* Personal website: [kei-jan.github.io](https://kei-jan.github.io/)
 
 ***
 
