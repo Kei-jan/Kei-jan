@@ -41,7 +41,9 @@ Repositories:
 
 * [LVM-tool](https://github.com/Kei-jan/LVMtool): Easy to use python code to calculate Left Ventricular Mass (LVM) from .nii.gz label file.
 
+Gists:
 
+Find my gists here: [gist.github.com/Kei-jan](https://gist.github.com/Kei-jan)
 
 ***
 
