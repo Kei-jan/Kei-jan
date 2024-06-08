@@ -43,6 +43,7 @@ Repositories:
 
 Gists:
 
+I use gists to store commonly used components.
 Find my gists here: [gist.github.com/Kei-jan](https://gist.github.com/Kei-jan)
 
 ***
